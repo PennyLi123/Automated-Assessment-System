@@ -1,11 +1,12 @@
 # Automated-Assessment-System Prototype
 
 
-1)Background
+1)Background：
+
 Due to the significant increase in university class sizes, leading to prolonged assessment turnaround times. However those virtual learning environments that provide facilities for online tests are expensive.
 Recognising the importance of both formative and summative assessment, there's a demand for an easy-to-use, flexible, and cost-effective tool to automate assessments while providing timely feedback to students.
 
-2)Problem Statement
+2)Problem Statement：
 
 Build an easy-to-use Automated Assessment Tool (AAT) prototype, enabling teaching-staff provide formative and summative assessments for university students.
 
@@ -19,6 +20,7 @@ Waterfall Methodology is used for the team to work with a joint contribution.
 During the developing stage, weekly tasks was planned out by drawing a Gantt Chart and using the branch function on Gitlab to develop and merge each function together.
 
 <img width="430" alt="image" src="https://github.com/PennyLi123/Automated-Assessment-System/blob/main/3%EF%B8%8F⃣AAT%20Gantt%20Chart.png">
+
 
 4)Functions Implemented:
 
